@@ -1,1 +1,1 @@
-# Mini-Project_2_Spring-2025-WEB-DATA-MINING-CUS-635
+# Mini-Project_2_Spring-2025-WEB-DATA-MINING-CUS-635 link access it's public to view and run the code: https://github.com/Neetagrg/Mini-Project_2_Spring-2025-WEB-DATA-MINING-CUS-635/blob/main/Mini_Project_2.ipynb
